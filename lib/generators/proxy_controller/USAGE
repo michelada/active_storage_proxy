@@ -1,0 +1,8 @@
+Description:
+    Generates an ActiveStorage Proxy controller for public blobs
+
+Example:
+    rails generate proxy_controller
+
+    This will create:
+        app/controllers/active_storage/proxy_controller.rb
