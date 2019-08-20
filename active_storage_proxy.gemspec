@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.name        = "active_storage_proxy"
   spec.version     = ActiveStorageProxy::VERSION
   spec.authors     = ["Mario Chavez", "David Cuadra"]
-  spec.email       = ["cuadraq@cuadra.com"]
+  spec.email       = ["mario.chavez@gmail.com", "cuadraq@cuadra.com"]
   spec.homepage    = "https://github.com/michelada/active_storage_proxy"
   spec.summary     = "Rails Engine for proxying"
   spec.description = "Engine for proxying ActiveStorage blobs"
